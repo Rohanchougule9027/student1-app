@@ -99,7 +99,7 @@ AWS EC2 Instances:
 The repository contains the standard structure for a Java Maven web application, including a Jenkinsfile for the pipeline definition.
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <th>File/Directory</th>
+    <th></th>
     <th>Description</th>
   </tr>
   <tr>
